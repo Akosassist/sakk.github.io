@@ -1,0 +1,23 @@
+body{
+    background-color: aquamarine;
+}
+table{
+    margin: auto;
+}
+table, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+td{
+    width: 200px;
+    height: 200px;
+}
+.black{
+    background-color: black;
+}
+.white{
+    background-color: white;
+}
+.blue{
+    background-color: blue;
+}
